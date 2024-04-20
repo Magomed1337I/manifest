@@ -247,6 +247,16 @@
    "AccountUrl":"https://api.facepunch.com/api/public/account/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
    "Servers":{
       "Official":[
+	 {
+			"Address": "37.230.228.193",
+			"Port": 44444,
+			"Tags": ""
+         },
+	 {
+			"Address": "37.230.228.193",
+			"Port": 40000,
+			"Tags": ""
+         },
          {
 			"Address": "62.122.213.120",
 			"Port": 44444,
